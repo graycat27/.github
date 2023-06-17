@@ -1,8 +1,7 @@
-# I`m graycat27 灰猫
 灰猫です🐈  
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio)](#)  
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,idea,eclipse)](#)  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,vscode)](#)  
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio)](#)  
 [![My Skills](https://skillicons.dev/icons?i=github,githubactions,sqlite,mysql)](#)  
 [Skill/Product](https://yui-kitamura.eng.pro/private/#h2_env)
 
